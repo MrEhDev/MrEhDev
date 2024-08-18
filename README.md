@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 ¡Hola! Soy Eleazar Hernández
+## 💻 Desarrollador Full Stack | 🏠 Apasionado de la Domótica | 🚀 Entusiasta de la Tecnología
+## 👨‍💻 Sobre Mí
 
-<!--
-**EleazarDevTech/EleazarDevTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador con más de 6 años de experiencia en el desarrollo e instalación de soluciones domóticas y automatización del hogar. Me apasiona conseguir que la tecnología mejore nuestras vidas, y me esfuerzo por crear soluciones que sean tanto innovadoras como prácticas.
 
-Here are some ideas to get you started:
+Actualmente, estoy en pleno proceso de expansión y certificación de mis conocimientos, realizando un **Master Developer Full Stack e Inteligencia Artificial** en la academia ConquerBlocks. 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+---
+
+## 🚀 Algunos de los proyectos más emocionantes en los que he trabajado incluyen:
+
+
+🌊 **Gestión y control** de piscinas mediante sistemas domóticos.
+
+🏡 **Automatización del hogar** en colaboración con la Universidad de Salamanca, optimizando el consumo de energía según los precios de PVPC.
+
+## 🛠️ Tecnologías y Habilidades
+
+- **Lenguajes**: 
+  - 🐍 Python
+
+- **Bases de datos**:
+  - 🐬 MySql
+  
+- **Tecnologías**:
+  - 🐋 Docker
+  - 🏠 Home Assistant
+  - ⚙️ Automatización del hogar
+  - 🌐 Desarrollo Full Stack en proceso
+
+## 🎯 Objetivos Profesionales
+
+Aspiro a consolidar mi carrera como programador, enfocándome en el desarrollo de software que transforme la manera en que interactuamos con la tecnología en nuestra vida diaria. 
+
+## 💡 Filosofía de Trabajo
+"La tecnología es mejor cuando acerca a las personas."
+--
+Mi misión es utilizar la tecnología para resolver problemas cotidianos y mejorar la calidad de vida. Busco crear herramientas y soluciones que sean intuitivas y que aporten un valor real.
+
+
+
+## 🤝 Colaboraciones
+
+Estoy abierto a colaborar en proyectos, especialmente aquellos relacionados con la automatización, desarrollo de software, y tecnología en general. ¡No dudes en contactarme si tienes una idea emocionante o un proyecto en mente!
+
+## 📫 Conéctate conmigo
+
+- **Email**: Eleherbri@gmail.com
