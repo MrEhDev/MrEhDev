@@ -49,12 +49,6 @@ Actualmente, estoy en pleno proceso de expansión y certificación de mis conoci
 
 Aspiro a consolidar mi carrera como programador, enfocándome en el desarrollo de software que transforme la manera en que interactuamos con la tecnología en nuestra vida diaria. 
 
-## 🎨 Intereses
-
-- 📷 **Fotografía**: La fotografía es una de mis grandes pasiones. Me encanta capturar momentos únicos y jugar con la luz y las sombras para crear imágenes impactantes.
-
-- 👨‍🏫 **Asesor Tecnológico**: Disfruto ayudando a otros a entender y aprovechar la tecnología en sus proyectos y vida diaria. Como asesor tecnológico, me esfuerzo por ofrecer soluciones personalizadas que optimicen el uso de la tecnología en diferentes entornos.
-
 
 ## 💡 Filosofía de Trabajo
 "La tecnología es mejor cuando acerca a las personas."
