@@ -37,7 +37,7 @@ Actualmente, estoy en pleno proceso de expansión y certificación de mis conoci
 ## 🌟 Otras Habilidades
 
 - **Liderazgo**: 
-  - 👥 He liderado equipos durante más de 9 años, guiando proyectos desde la concepción hasta la implementación con éxito.
+  - 👥 He liderado equipos multifuncionales, coordinando proyectos y garantizando la consecución de objetivos en tiempo y forma.
 
 - **Asesor Tecnológico**: 
   - 👨‍🏫 Como asesor tecnológico, he ayudado a individuos y empresas a implementar soluciones tecnológicas personalizadas para optimizar procesos y mejorar la eficiencia.
