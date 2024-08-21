@@ -32,6 +32,12 @@ Actualmente, estoy en pleno proceso de expansión y certificación de mis conoci
   - 🏠 Home Assistant
   - ⚙️ Automatización del hogar
   - 🌐 Desarrollo Full Stack en proceso
+  - 🛜 Git
+  - 🐈‍⬛ GitHub
+
+- **SO**:
+  - 🪟 Windows
+  - 🐧 Linux
 
 
 ## 🌟 Otras Habilidades
