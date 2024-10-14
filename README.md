@@ -23,11 +23,16 @@ Actualmente, estoy en pleno proceso de expansión y certificación de mis conoci
 
 - **Lenguajes**: 
   - 🐍 Python
+  - 🌐 HTML
+  - 🎨 CSS
+  - 📜 JavaScript
 
 - **Bases de datos**:
   - 🐬 MySql
   
 - **Tecnologías**:
+  - 🔗 Django
+  - 📊 Streamlit
   - 🐋 Docker
   - 🏠 Home Assistant
   - ⚙️ Automatización del hogar
